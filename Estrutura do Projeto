@@ -1,0 +1,7 @@
+src/
+├── components/
+│   ├── BookForm.tsx
+│   └── BookList.tsx
+├── interfaces/
+│   └── book.interface.ts
+└── Principal.tsx
